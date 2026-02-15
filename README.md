@@ -1,5 +1,5 @@
 # Pyjolt
 Python bindings for Jolt physics!
 
-check here instead:
+check here:
 https://github.com/Evilpasture/Culverin
