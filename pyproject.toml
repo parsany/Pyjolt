@@ -1,0 +1,13 @@
+[build-system]
+requires = ["scikit-build-core", "nanobind>=2.0.0"]
+build-backend = "scikit_build_core.build"
+
+[project]
+name = "pyjolt"
+version = "0.0.1"
+description = "Python bindings for JoltPhysics using nanobind"
+requires-python = ">=3.8"
+dependencies = []
+
+[tool.scikit-build]
+cmake.version = ">=3.15"
